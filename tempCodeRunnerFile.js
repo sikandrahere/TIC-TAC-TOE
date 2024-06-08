@@ -1,5 +1,0 @@
-let inputBox=document.querySelector(".input-box")
-// let msg=document.querySelector(".input-box-text")
-// let newGameBtn=document.querySelector(".new-game")
-// let resetGameBtn=document.querySelector(".reset-game")
-// let boxes=document.querySelectorAll(".box")
